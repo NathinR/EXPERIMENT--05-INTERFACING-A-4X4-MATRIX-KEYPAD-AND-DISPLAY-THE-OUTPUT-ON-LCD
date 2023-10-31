@@ -10,7 +10,7 @@ To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM 
 STM32 CUBE IDE, Proteus 8 simulator .
 ## Theory:
 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/36288975/2a4a795e-1674-4329-ae07-3f5e8d5073e2)
+<img src="https://github.com/vasanthkumarch/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/36288975/2a4a795e-1674-4329-ae07-3f5e8d5073e2" width="450" height="450">
 
 4×4 Keypad Module Pin Diagram
 4x4 Keypad module Pin Diagram
@@ -411,14 +411,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ## BUTTON OFF:
-![WhatsApp Image 2023-09-26 at 19 37 46](https://github.com/22002102/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119091638/e9d25085-3504-414d-828b-5dddc6c5ae82)
-
+<img src="https://github.com/22002102/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119091638/e9d25085-3504-414d-828b-5dddc6c5ae82" width="450" height="450">
 ## BUTTON ON:
-![WhatsApp Image 2023-09-26 at 19 38 39](https://github.com/22002102/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119091638/1d533f93-5f50-46e3-9cf3-29bd1a508161)
+<img src="https://github.com/22002102/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119091638/1d533f93-5f50-46e3-9cf3-29bd1a508161" width="450" height="450">
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![image](https://github.com/22002102/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119091638/86a1e60c-9308-44a2-b4b9-c7288012be9b)
+<img src="https://github.com/22002102/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119091638/86a1e60c-9308-44a2-b4b9-c7288012be9b" width="450" height="450">
 
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
